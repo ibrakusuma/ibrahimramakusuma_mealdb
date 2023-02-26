@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ibrahimramakusuma_mealdb</string>
+    <string name="home">Home</string>
+    <string name="list_title">Makanan dan Minuman</string>
+    <string name="failed_to_fetch_data">Failed to fetch data.</string>
+    <string name="warning">warning</string>
+    <string name="image_meal">Image Meal</string>
+    <string name="str_meal">strMeal</string>
+    <string name="id_meal">ID Meal : </string>
+    <string name="tv_id_meal">522959</string>
+    <string name="str_area">Area : </string>
+    <string name="tv_area">British</string>
+    <string name="instruction">Instruction</string>
+    <string name="tv_instructions">Heat oven to 180C/fan 160C/gas 4. Trim the fronds from the fennel and set aside. Cut the fennel bulbs in half, then cut each half into 3 wedges. Cook in boiling salted water for 10 mins, then drain well. Chop the fennel fronds roughly, then mix with the parsley and lemon zest. Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes. Drizzle with olive oil, then bake for 10 mins. Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked. Scatter over the parsley and serve.</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="favorites_empty">Favorites Empty</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_from_favorite">Remove from favorite</string>
+</resources>
